@@ -1,0 +1,42 @@
+header{
+    background-color: #E5E5E5;
+}
+
+button{
+    background-color: #1E96C8;
+}
+
+a {
+    color: #515151;
+} 
+
+h2 span {
+    color: #DB0000;
+}
+
+.tuzalganlar{
+    color: #05B135;
+}
+
+h3 {
+    color: #202020;
+}
+
+.paragrf p {
+    color: #434343;
+}
+
+.muhim li {
+    background-color: #E5E5E5;
+}
+.koproq_yang {
+    background-color: #295093;
+}
+
+footer {
+    background-color: #295093;
+}
+
+.sayt_haqida {
+    color: #ffff;
+}
