@@ -1,3 +1,8 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+
 header{
     background-color: #E5E5E5;
 }
@@ -40,3 +45,42 @@ footer {
 .sayt_haqida {
     color: #ffff;
 }
+
+.maslahat {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.masla {
+    display: flex;
+    justify-content: space-around;
+}
+
+.palitika {
+    display: flex;
+}
+
+.palitika-list {
+    
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.begin {
+    display: flex;
+    justify-content: space-around;
+}
+
+
